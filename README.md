@@ -17,7 +17,7 @@ and AI-powered phishing prevention.
 | 🚨 Incident Response Tool | Incident documentation, evidence collection & timelines |
 | 🌐 Web Scraper | Automated data extraction for vulnerability & threat research |
 | 🧩 File Integrity Checker | Detects unauthorized file tampering |
-| 📊 Log Analyzer Anomaly detection, threat intelligence & visual reporting |
+| 📊 Log Analyzer | Anomaly detection, threat intelligence & visual reporting |
 | 🔔 Notifier | Scheduled SMS/API security alerts & notifications |
 | 🎣 Anti-Phish | ML-powered phishing URL detection with 3D visualization |
 | 🔄 IP Changer | Dynamic IP rotation to prevent targeted network attacks |
