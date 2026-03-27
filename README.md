@@ -2,7 +2,7 @@
 ### Cybersecurity Software Developer | 23+ Years in IT | Las Vegas, NV
 
 🛡️ I build the **CyberDefender Suite** — a collection of 10+ commercial-grade 
-cybersecurity tools covering network defense, threat detection, incident response, 
+cybersecurity tools covering network defense, threat detection, and incident response, 
 and AI-powered phishing prevention.
 
 ---
@@ -17,7 +17,7 @@ and AI-powered phishing prevention.
 | 🚨 Incident Response Tool | Incident documentation, evidence collection & timelines |
 | 🌐 Web Scraper | Automated data extraction for vulnerability & threat research |
 | 🧩 File Integrity Checker | Detects unauthorized file tampering |
-| 📊 Log Analyzer | Anomaly detection, threat intelligence & visual reporting |
+| 📊 Log Analyzer Anomaly detection, threat intelligence & visual reporting |
 | 🔔 Notifier | Scheduled SMS/API security alerts & notifications |
 | 🎣 Anti-Phish | ML-powered phishing URL detection with 3D visualization |
 | 🔄 IP Changer | Dynamic IP rotation to prevent targeted network attacks |
