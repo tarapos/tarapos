@@ -22,6 +22,7 @@ and AI-powered phishing prevention.
 | 🎣 Anti-Phish | ML-powered phishing URL detection with 3D visualization |
 | 🔄 IP Changer | Dynamic IP rotation to prevent targeted network attacks |
 | 🧼 CyberDefender-Data Sanitizer | Securely sanitizes sensitive data, redacts sensitive content, and prepares files for safe sharing, storage, and compliance workflows |
+🛡️ ThreatSeeker | Detects suspicious activity through modular log analysis, threat correlation, ML-based anomaly detection, and timeline visualization for faster security investigation.
 
 > 🔒 All repositories are private commercial software. Demos available on request.
 
