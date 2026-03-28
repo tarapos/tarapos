@@ -89,7 +89,7 @@ Demos available on request.
 
 ## 🎓 Certifications
 Google Cybersecurity Certificate • EC-Council Wireshark • EC-Council Pen Testing  
-ISO 27001 / NIST 800-53 • Microsoft Professional AI • CompTIA A+
+ISO 27001 / NIST 800-53 • Microsoft Professional AI • CompTIA A+• Microsoft Certified Professional
 
 ---
 
