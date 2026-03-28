@@ -79,11 +79,7 @@ Demos available on request.
 ---
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3.13-blue" alt="Python"> <img src="https://img.shields.io/badge/PyQt6-GUI-green" alt="PyQt6"> <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6" alt="TypeScript"> <img src="https://img.shields.io/badge/SQL-Database-orange" alt="SQL"> <img src="https://img.shields.io/badge/Machine%20Learning-AI-purple" alt="Machine Learning"> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032" alt="Git"> <img src="https://img.shields.io/badge/GitHub-Profile-181717" alt="GitHub"> <img src="https://img.shields.io/badge/Windows-11-0078D6" alt="Windows"> <img src="https://img.shields.io/badge/Cybersecurity-Tools-red" alt="Cybersecurity"> <img src="https://img.shields.io/badge/PowerShell-7.5-5391FE" alt="PowerShell"> <img src="https://img.shields.io/badge/JSON-Data-black" alt="JSON"> <img src="https://img.shields.io/badge/AI-Automation-8A2BE2" alt="AI"> <img src="https://img.shields.io/badge/Automation-Workflow-ff69b4" alt="Automation"> <img src="https://img.shields.io/badge/Security-Focused-darkred" alt="Security"> <img src="https://img.shields.io/badge/Linux-Basics-FCC624" alt="Linux"> <img src="https://img.shields.io/badge/Networking-IT-0A66C2" alt="Networking"> <img src="https://img.shields.io/badge/CyberDefender-Building-red" alt="CyberDefender"> <img src="https://img.shields.io/badge/Ollama-Local%20AI-000000" alt="Ollama"> <img src="https://img.shields.io/badge/PyTorch-ML-EE4C2C" alt="PyTorch"> <img src="https://img.shields.io/badge/SQLite-Database-003B57" alt="SQLite">
 
 ---
 
