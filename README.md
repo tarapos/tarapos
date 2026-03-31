@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Rodger Johnston
 ### Cybersecurity Software Developer | 23+ Years in IT | Las Vegas, NV
 
-🛡️ I build the CyberDefender Suite, a collection of 10+ commercial-grade cybersecurity tools covering network defense, threat detection, incident response, and AI-powered phishing prevention. My work focuses on practical cybersecurity tools and IT solutions designed to strengthen protection, improve visibility, and solve real-world security challenges. My background spans cybersecurity, software development, SQL, analytics, web technologies, technical support, and security operations.
+🛡️ I<img width="720" height="720" alt="CyberD-Me" src="https://github.com/user-attachments/assets/f0438395-3d7e-4120-817c-4a7c8f9e1886" />
+ build the CyberDefender Suite, a collection of 10+ commercial-grade cybersecurity tools covering network defense, threat detection, incident response, and AI-powered phishing prevention. My work focuses on practical cybersecurity tools and IT solutions designed to strengthen protection, improve visibility, and solve real-world security challenges. My background spans cybersecurity, software development, SQL, analytics, web technologies, technical support, and security operations.
 
 ---
 
